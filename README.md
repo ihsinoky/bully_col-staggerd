@@ -1,2 +1,2 @@
-# bully_col-staggerd
+# colbully
 colmun-staggerd keyboard based on bully.
